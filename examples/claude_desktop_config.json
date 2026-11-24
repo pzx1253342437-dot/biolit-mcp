@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "biolit": {
+      "command": "biolit-mcp",
+      "env": {
+        "NCBI_API_KEY": "",
+        "NCBI_EMAIL": "you@example.org"
+      }
+    }
+  }
+}
