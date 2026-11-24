@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2025//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+ <PubmedArticle>
+  <MedlineCitation Status="MEDLINE" Owner="NLM">
+   <PMID Version="1">90000001</PMID>
+   <Article PubModel="Print">
+    <Journal><Title>Synthetic Biology Journal</Title>
+     <JournalIssue CitedMedium="Internet"><PubDate><Year>2021</Year><Month>Mar</Month></PubDate></JournalIssue>
+    </Journal>
+    <ArticleTitle>Base editing of a pathogenic variant in cultured hepatocytes.</ArticleTitle>
+    <Abstract>
+     <AbstractText Label="BACKGROUND">Adenine base editors convert A&#183;T to G&#183;C without double-strand breaks.</AbstractText>
+     <AbstractText Label="RESULTS">Editing reached 62% in <i>PCSK9</i> alleles with no detectable indels.</AbstractText>
+    </Abstract>
+    <AuthorList CompleteYN="Y">
+     <Author ValidYN="Y"><LastName>Zhang</LastName><ForeName>Li</ForeName><Initials>L</Initials></Author>
+     <Author ValidYN="Y"><LastName>Okafor</LastName><ForeName>Chidi</ForeName><Initials>C</Initials></Author>
+    </AuthorList>
+   </Article>
+   <MeshHeadingList>
+    <MeshHeading><DescriptorName UI="D000001">Gene Editing</DescriptorName></MeshHeading>
+    <MeshHeading><DescriptorName UI="D000002">Hepatocytes</DescriptorName></MeshHeading>
+   </MeshHeadingList>
+  </MedlineCitation>
+  <PubmedData>
+   <ArticleIdList>
+    <ArticleId IdType="pubmed">90000001</ArticleId>
+    <ArticleId IdType="doi">10.5555/sbj.2021.001</ArticleId>
+   </ArticleIdList>
+  </PubmedData>
+ </PubmedArticle>
+ <PubmedArticle>
+  <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+   <PMID Version="1">90000002</PMID>
+   <Article PubModel="Print">
+    <Journal><Title>Molecular Test Reports</Title>
+     <JournalIssue><PubDate><MedlineDate>2019 Jan-Feb</MedlineDate></PubDate></JournalIssue>
+    </Journal>
+    <ArticleTitle>Off-target profiling of Cas9 nucleases by whole-genome sequencing.</ArticleTitle>
+    <AuthorList><Author><CollectiveName>Genome Safety Consortium</CollectiveName></Author></AuthorList>
+   </Article>
+  </MedlineCitation>
+ </PubmedArticle>
+</PubmedArticleSet>

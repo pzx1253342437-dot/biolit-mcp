@@ -1,0 +1,4 @@
+{"header": {"type": "esearch", "version": "0.3"},
+ "esearchresult": {"count": "2481", "retmax": "2", "retstart": "0",
+  "idlist": ["90000001", "90000002"],
+  "querytranslation": "\"crispr cas systems\"[MeSH Terms] OR \"crispr\"[All Fields]"}}

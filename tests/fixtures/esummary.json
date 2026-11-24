@@ -1,0 +1,13 @@
+{"header": {"type": "esummary", "version": "0.3"},
+ "result": {
+  "uids": ["90000001", "90000002", "99999999"],
+  "90000001": {"uid": "90000001", "pubdate": "2021 Mar 4", "source": "Synth Biol J",
+    "fulljournalname": "Synthetic Biology Journal",
+    "title": "Base editing of a pathogenic variant in cultured hepatocytes.",
+    "authors": [{"name": "Zhang L", "authtype": "Author"}, {"name": "Okafor C", "authtype": "Author"}],
+    "articleids": [{"idtype": "pubmed", "value": "90000001"}, {"idtype": "doi", "value": "10.5555/sbj.2021.001"}]},
+  "90000002": {"uid": "90000002", "pubdate": "2019", "source": "Mol Test Rep",
+    "title": "Off-target profiling of Cas9 nucleases by whole-genome sequencing.",
+    "authors": [], "articleids": [{"idtype": "pubmed", "value": "90000002"}]},
+  "99999999": {"uid": "99999999", "error": "cannot get document summary"}
+ }}

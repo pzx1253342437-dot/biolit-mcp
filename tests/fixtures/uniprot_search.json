@@ -1,0 +1,12 @@
+{"results": [
+ {"entryType": "UniProtKB reviewed (Swiss-Prot)", "primaryAccession": "Q9ZZZ1", "uniProtkbId": "SYNP_HUMAN",
+  "organism": {"scientificName": "Homo sapiens", "taxonId": 9606},
+  "proteinDescription": {"recommendedName": {"fullName": {"value": "Synthetic test protein 1"}}},
+  "genes": [{"geneName": {"value": "SYNP1"}, "synonyms": [{"value": "STP1"}]}],
+  "sequence": {"length": 412}},
+ {"entryType": "UniProtKB unreviewed (TrEMBL)", "primaryAccession": "A0A0B4J2F0", "uniProtkbId": "A0A0B4J2F0_ECOLX",
+  "organism": {"scientificName": "Escherichia coli", "taxonId": 562},
+  "proteinDescription": {"submissionNames": [{"fullName": {"value": "Uncharacterized protein"}}]},
+  "genes": [{"orderedLocusNames": [{"value": "b0001"}]}],
+  "sequence": {"length": 88}}
+]}

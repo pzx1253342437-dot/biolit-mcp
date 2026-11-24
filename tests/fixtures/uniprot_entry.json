@@ -1,0 +1,15 @@
+{"entryType": "UniProtKB reviewed (Swiss-Prot)", "primaryAccession": "Q9ZZZ1", "uniProtkbId": "SYNP_HUMAN",
+ "organism": {"scientificName": "Homo sapiens", "commonName": "Human", "taxonId": 9606},
+ "proteinDescription": {"recommendedName": {"fullName": {"value": "Synthetic test protein 1"}}},
+ "genes": [{"geneName": {"value": "SYNP1"}}],
+ "comments": [
+  {"commentType": "FUNCTION", "texts": [{"value": "Binds DNA in a sequence-specific manner and represses transcription of target genes."}]},
+  {"commentType": "SUBCELLULAR LOCATION", "subcellularLocations": [
+    {"location": {"value": "Nucleus"}}, {"location": {"value": "Cytoplasm"}}, {"location": {"value": "Nucleus"}}]}
+ ],
+ "uniProtKBCrossReferences": [
+  {"database": "GO", "id": "GO:0005634", "properties": [{"key": "GoTerm", "value": "C:nucleus"}]},
+  {"database": "GO", "id": "GO:0003677", "properties": [{"key": "GoTerm", "value": "F:DNA binding"}]},
+  {"database": "PDB", "id": "1ABC", "properties": []}
+ ],
+ "sequence": {"value": "MSTNPKPQRK", "length": 412, "molWeight": 45210}}
